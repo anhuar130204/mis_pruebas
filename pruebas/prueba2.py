@@ -1,9 +1,9 @@
-"""
-   Prueba1
+""""
+   Prueba2
    Nombre:Anhuar Fernando MI                                              
-   Fecha: 02/02/2023                                                      
-   Descripcion:piramide de nuemros
+   Fecha: 04/02/2023                                                      
+   Descripcion: añadiendo mensaje 
 """
-mensaje = str(input("escribe mensaje:"))
-mensaje += str("  mensaje1")
-print(mensaje)
+mensaje = str(input("escribe ")) # pedimos que escriba un mensaje 
+mensaje += str("  mensaje1") # añadimos mensaje1 al mensaje pedido 
+print(mensaje) # imprimimos mensaje 
